@@ -1,7 +1,7 @@
 {
   "id": "native-transclusion",
   "name": "Native Transclusions",
-  "version": "v1.1.0",
+  "version": "v0.1.0",
   "minAppVersion": "1.3.0",
   "description": "Renders embedded files as if they were native content, enabling full processing of headers, lists, and code blocks.",
   "author": "Caleb Davis",
